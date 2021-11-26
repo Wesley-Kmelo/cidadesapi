@@ -1,4 +1,4 @@
-# cidadesapi
+# Api de Consulta e Cálculo com DB Postgres
 Api desenvolvida na plataforma DIO para consulta a banco de dados Postgres 
 
 Esta Api retorna o nome de todos os países do mundo e estados e cidades do Brasil. 
@@ -67,5 +67,19 @@ CREATE EXTENSION cube;
 CREATE EXTENSION earthdistance;
 
 ```
+
+### Para acessar a api
+[Pais](https://apicidades-dio.herokuapp.com/pais)
+
+[estado](https://apicidades-dio.herokuapp.com/estado)
+
+[cidade](https://apicidades-dio.herokuapp.com/cidade)
+
+[distancia por points](https://apicidades-dio.herokuapp.com/distancia/points?from=4929&to=499)
+
+[distancia por cube](https://apicidades-dio.herokuapp.com/distancia/cube?from=4929&to=499)
+
+
+
 Se você gostou pode entrar em contato . Pode dar um star tambem.
 
