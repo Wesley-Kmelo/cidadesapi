@@ -71,9 +71,9 @@ CREATE EXTENSION earthdistance;
 ### Para acessar a api
 [Pais](https://apicidades-dio.herokuapp.com/pais)
 
-[estado](https://apicidades-dio.herokuapp.com/estado)
+[estados](https://apicidades-dio.herokuapp.com/estados)
 
-[cidade](https://apicidades-dio.herokuapp.com/cidade)
+[cidades](https://apicidades-dio.herokuapp.com/cidades)
 
 [distancia por points](https://apicidades-dio.herokuapp.com/distancia/points?from=4929&to=499)
 
